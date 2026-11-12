@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "234edd1c-dc96-49da-8695-17fab369090a",
+      "name": "Administrator OUTSIDERS",
+      "email": "admin@outsiders.ogland",
+      "passwordHash": "$2a$12$9kxsuWn4j7H1jU9TwP8baOtmT5uJcik9AIFHrU81NAcHJTicW9xXy",
+      "role": "admin",
+      "createdAt": "2026-11-12T11:38:34.218Z"
+    }
+  ],
+  "dossiers": [
+    {
+      "id": "c9a846b7-aed9-4ac7-bd59-b57c50d62e04",
+      "reference": "OUT-2026-ACBB6F",
+      "accessPasswordHash": "$2a$12$PIpHuxcreIEVvDvus1XaGukZEZ/l1ueC3pHXI6gM3a8HwP7tnxQTy",
+      "trackingSecretHash": "4f0f1b580e5bb35310a459f455d524392bad4c16dc6e034a769affb9255889ff",
+      "title": "test ghici",
+      "organization": "Alte organizații",
+      "organizationOther": "test",
+      "category": "integrity",
+      "priority": "important",
+      "incidentDate": "2000-01-01",
+      "location": "dsadas",
+      "summary": "tetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetett",
+      "details": "tetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetett",
+      "people": "tetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetetttetstetetettetetett",
+      "chronology": "test",
+      "requestedAction": "tetstetetettetetett",
+      "evidence": [
+        {
+          "id": "e61dd4cd-8f80-454d-a70f-d505c5054527",
+          "originalName": "Polished_Chrome_OTS_Emblem-removebg-preview.png",
+          "filename": "0f0dbd12-d258-441b-94b5-cc169d3decea.png",
+          "mimeType": "image/png",
+          "size": 97938
+        },
+        {
+          "id": "9fe17c1d-8913-4339-83ac-905efea8b73d",
+          "originalName": "Polished Chrome OTS Emblem.png",
+          "filename": "28242016-aa68-4b13-8266-c71799c41df9.png",
+          "mimeType": "image/png",
+          "size": 826887
+        }
+      ],
+      "videoLinks": [
+        {
+          "id": "cedcd749-39c5-4fea-8ea1-72299c887aed",
+          "url": "https://www.youtube.com/watch?v=_QKnQZ-xnLA"
+        }
+      ],
+      "status": "approved",
+      "adminNote": "",
+      "ownerId": null,
+      "ownerName": "Vizitator anonim",
+      "createdAt": "2026-11-12T11:41:58.396Z",
+      "updatedAt": "2026-11-12T11:44:18.420Z",
+      "history": [
+        {
+          "status": "pending",
+          "at": "2026-11-12T11:41:58.396Z",
+          "by": null,
+          "note": "Dosar transmis spre verificare."
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-12T11:44:18.420Z",
+          "by": "234edd1c-dc96-49da-8695-17fab369090a",
+          "note": "Dosar aprobat pentru publicare."
+        }
+      ],
+      "reviewedAt": "2026-11-12T11:44:18.420Z",
+      "reviewedBy": "234edd1c-dc96-49da-8695-17fab369090a"
+    }
+  ]
+}
